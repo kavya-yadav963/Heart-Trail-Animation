@@ -73,7 +73,7 @@ Code Breakdown
                           opacity: 1;
                           filter: hue-rotate(720deg);
                         }
-   }
+    }
 
 Future Improvements
 
